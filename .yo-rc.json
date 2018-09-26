@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "../swagger.oas3.yaml",
+    "name": "LemonMart",
+    "repo": "https://github.com/JayKay24/lemon-mart-swagger-server.git",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
